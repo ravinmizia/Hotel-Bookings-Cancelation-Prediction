@@ -1,0 +1,1 @@
+["lead_time", "avg_price_per_room", "no_of_special_requests", "repeated_guest"]
